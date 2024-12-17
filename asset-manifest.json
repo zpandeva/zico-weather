@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/zico-weather/static/css/main.cb1c1132.css",
-    "main.js": "/zico-weather/static/js/main.9ccf611f.js",
+    "main.js": "/zico-weather/static/js/main.5fc33132.js",
     "static/js/453.18df479b.chunk.js": "/zico-weather/static/js/453.18df479b.chunk.js",
     "static/media/logo.svg": "/zico-weather/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/zico-weather/index.html",
     "main.cb1c1132.css.map": "/zico-weather/static/css/main.cb1c1132.css.map",
-    "main.9ccf611f.js.map": "/zico-weather/static/js/main.9ccf611f.js.map",
+    "main.5fc33132.js.map": "/zico-weather/static/js/main.5fc33132.js.map",
     "453.18df479b.chunk.js.map": "/zico-weather/static/js/453.18df479b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb1c1132.css",
-    "static/js/main.9ccf611f.js"
+    "static/js/main.5fc33132.js"
   ]
 }
