@@ -22,7 +22,7 @@ export default function CurrentWeather({location, units}){
    return (
    <div data-testid="CurrentWeather">
         <div className='current-weather-header'>
-            <div>Current Wether</div><div>{location.name}</div>
+            <div>Current</div><div>{location.name}</div>
         </div>
         <div className='current-weather-row'> {temp}<img alt='Current Weather Icon' src={icon}></img></div>
      <span className='current-weather-row'>{description}</span>
